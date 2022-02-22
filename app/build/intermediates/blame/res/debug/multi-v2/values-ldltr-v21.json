@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Jesse\\AndroidStudioProjects\\AMap_Android_Demo\\AMap_Android_Demo\\AMap_Android_API_Navi_Demo\\android_studio\\NaviDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\420\\.gradle\\caches\\transforms-2\\files-2.1\\7ab8a6a674e8c6284906a2c7ffb852e7\\appcompat-v7-26.1.0\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

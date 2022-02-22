@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./app/libs/AMap_Location_V5.6.2_20211230.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/AMap_Location_V5.6.2_20211230.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

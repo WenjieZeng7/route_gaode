@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Jesse\\AndroidStudioProjects\\AMap_Android_Demo\\AMap_Android_Demo\\AMap_Android_API_Navi_Demo\\android_studio\\NaviDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\420\\.gradle\\caches\\transforms-2\\files-2.1\\7ab8a6a674e8c6284906a2c7ffb852e7\\appcompat-v7-26.1.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
